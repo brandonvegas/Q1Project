@@ -1,0 +1,58 @@
+html {background-image: url("We-The-People.jpg"); background-size: cover;}
+
+body{
+    background-image:url("wethepeople.jpeg"),;
+    background-repeat: no-repeat;
+    /*background-size: 200px, 500px;*/
+    -webkit-background-size: 30%, 100%;
+    background-position:right, top;
+}
+.search {
+right: 400px;}
+
+h1 { font-weight: bold; color: #00001a; text-shadow: 6px 6px #FF0000; font-family: 'asset'; font-size: 51px;}
+
+.nav-wrapper { background-color: red;}
+
+.nav-extended {background-color: #00001a;}
+
+.material-icons { color: white;}
+
+.footer-image {position: absolute; bottom: 0;}
+ .carousel {position: absolute; right: 200px;}
+
+ /*.cards {
+    display: flex;
+    justify-content: space-between;
+ }*/
+
+/*For popup box
+
+  Popup container */
+ .popup {
+     position: relative;
+     display: inline-block;
+     cursor: pointer;
+ }
+
+ /* The actual popup (appears on top) */
+ .popup .popuptext {
+     visibility: hidden;
+     width: 160px;
+     background-color: #555;
+     color: #fff;
+     text-align: center;
+     border-radius: 6px;
+     padding: 8px 0;
+     position: absolute;
+     z-index: 1;
+     bottom: 125%;
+     left: 50%;
+     margin-left: -80px;
+ }
+
+ #CongressInformation {
+   background-color: red; height: 300px;
+ }
+ .page-footer {background-color: #00001a}
+ .container {background-color: #00001a;)
